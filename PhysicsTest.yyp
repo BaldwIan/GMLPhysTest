@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "3c791b3b-2799-43a1-9a57-0c76f5ac8cc1",
+            "Value": {
+                "id": "8af3713c-8231-4f73-af62-cd9247717b1d",
+                "resourcePath": "objects\\oFloor\\oFloor.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3c9b47de-7baa-400a-9516-eab8e2c741f0",
             "Value": {
                 "id": "8f5c686d-0ef3-4593-a086-3409a1f0fd45",
@@ -223,6 +231,14 @@
             }
         },
         {
+            "Key": "b1042c6a-dee1-400a-816d-1d5cb25bd024",
+            "Value": {
+                "id": "d862e4c0-91d9-4dce-ae21-c6f4227c7006",
+                "resourcePath": "scripts\\room_setup\\room_setup.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "b54f16af-447a-4be5-bc06-66848285ceae",
             "Value": {
                 "id": "e242d9a3-4c56-41a5-be28-5f8adc2b4f33",
@@ -282,13 +298,14 @@
             "Key": "f86d71ad-3f81-4f0e-9650-2d4b3973aa8a",
             "Value": {
                 "id": "5f537393-5fbc-4a11-a93f-4903e9339747",
-                "resourcePath": "sprites\\sCollision\\sCollision.yy",
+                "resourcePath": "sprites\\sFloor\\sFloor.yy",
                 "resourceType": "GMSprite"
             }
         }
     ],
     "script_order": [
-        "34ffe4ec-9f74-4f98-b075-21ba71062df4"
+        "34ffe4ec-9f74-4f98-b075-21ba71062df4",
+        "b1042c6a-dee1-400a-816d-1d5cb25bd024"
     ],
     "tutorial": ""
 }

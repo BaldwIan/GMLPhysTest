@@ -4,14 +4,23 @@
     "mvc": "1.0",
     "name": "oCollision",
     "eventList": [
-        
+        {
+            "id": "369acc02-5402-4460-87ca-3f8de521282f",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "ba6359c0-17c6-42b6-9649-b7ed4aafe680",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "ba6359c0-17c6-42b6-9649-b7ed4aafe680"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
-    "physicsDensity": 0.5,
+    "physicsDensity": 0,
     "physicsFriction": 0.2,
     "physicsGroup": 0,
     "physicsKinematic": false,
@@ -53,6 +62,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "f86d71ad-3f81-4f0e-9650-2d4b3973aa8a",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

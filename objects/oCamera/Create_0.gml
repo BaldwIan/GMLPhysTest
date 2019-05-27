@@ -19,7 +19,7 @@ view_camera[0] = camera;
 rotation = 0;
 
 // Follow info
-following = id;
+following = oPlayer;
 xTo = x;
 yTo = y;
 

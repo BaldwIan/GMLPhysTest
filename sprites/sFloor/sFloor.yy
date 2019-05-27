@@ -2,7 +2,7 @@
     "id": "f86d71ad-3f81-4f0e-9650-2d4b3973aa8a",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sCollision",
+    "name": "sFloor",
     "For3D": false,
     "HTile": false,
     "VTile": false,

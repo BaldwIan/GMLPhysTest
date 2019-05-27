@@ -67,13 +67,7 @@ switch (mode)
 	default:
 		break;
 }
-/*
-// Fix offscreen bug
-if (xTo + xOffset < global.cwidth / 2) xTo = global.cwidth / 2;
-else if (xTo + xOffset < room_width - global.cwidth / 2) xTo = room_width - global.cwidth / 2;
-if (yTo + yOffset < global.cheight / 2) yTo = global.cheight / 2;
-else if (yTo + yOffset < room_height - global.cheight / 2) yTo = room_height - global.cheight / 2;
-*/
+
 // Lerp to pos
 if (smoothPan)
 {
