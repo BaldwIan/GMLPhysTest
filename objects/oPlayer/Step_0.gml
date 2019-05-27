@@ -12,3 +12,5 @@ if (keyboard_check(ord("D")))
 	physics_apply_torque(750);
 	physics_apply_force(x, y, 750, 0);
 }
+
+

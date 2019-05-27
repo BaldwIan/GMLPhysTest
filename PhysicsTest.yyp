@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0e0ac4dc-be68-4e69-b79b-cb1266e5bfb9",
+            "Value": {
+                "id": "1dbafa72-a077-4f69-9321-aa4913805156",
+                "resourcePath": "objects\\oSlope\\oSlope.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1163eea2-ff18-42fe-849d-8dfb44d16b4f",
             "Value": {
                 "id": "2e8f237e-9c2d-46b4-9e59-cbc410fe682c",
@@ -148,6 +156,14 @@
                 "id": "c1b5b9c1-1eba-4be3-8646-d2bdafdede4e",
                 "resourcePath": "views\\64531d6d-ec4d-46fb-a318-3628f4bf9d60.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "70f19091-da4b-468a-9950-aef3ea1e9872",
+            "Value": {
+                "id": "faad94b0-c894-4f2f-8e84-f831620b56da",
+                "resourcePath": "sprites\\sTestSlope\\sTestSlope.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
