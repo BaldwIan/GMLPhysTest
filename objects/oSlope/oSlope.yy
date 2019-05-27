@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "oSlope",
     "eventList": [
-        
+        {
+            "id": "93824f92-f2bc-4ffe-80b1-22016daa7070",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "0e0ac4dc-be68-4e69-b79b-cb1266e5bfb9"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -38,7 +47,7 @@
     ],
     "physicsStartAwake": true,
     "properties": null,
-    "solid": false,
+    "solid": true,
     "spriteId": "70f19091-da4b-468a-9950-aef3ea1e9872",
     "visible": true
 }
